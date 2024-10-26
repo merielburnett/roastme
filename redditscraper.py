@@ -4,11 +4,11 @@ import re
 from datetime import datetime, timezone, timedelta
 
 # PRAW API credentials
-client_id = 'cSClKsByVt3EoGd86H5-XA'
-client_secret = '0IP4rhpCnBriMwi03i-_MaQ9x8TeoA'
-user_agent = 'testscript by u/Strong-Scarcity-6382'
-username = 'Strong-Scarcity-6382'
-password = 'Frankiecroatia19'
+client_id = '..........'
+client_secret = '.........'
+user_agent = 'testscript by u/........'
+username = '..........'
+password = '.............'
 
 
 #define the subreddit and date range
